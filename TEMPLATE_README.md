@@ -1,69 +1,63 @@
-# Title
+# Microsoft Movie Analysis
 
-**Authors**: Student1, Student2
+**Authors**: Aswathi Sasikumar
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+This project analyzes the types of movies that are currently doing the best at the box office.This will help Microsoft in understanding that the current trends in Movie Market and will enable them to decide upon the movies for their New Movie Studio.
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+Microsoft will be able to understand the latest trends in the movies that are making big profit in Box-office.They will be able to make following inferences from the analysis.
 
-***
-Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-***
+* Identify the genres that are getting the highest votes/rating from public.
+* Identify the genres that are marking profit in domestic and international market
+* Identify the studios that are making trend setter movies.
+
+They can utilize these findings in deciding upon the movies they should create in their new Movie Studio to get maximum profit.
+
+The datasets from the popular movie datasets were analysed.
+
+IMDB
+BOX Office MOJO
+
 
 ## Data
 
-Describe the data being used for this project.
+IMDb is the world's most popular and authoritative source for movie, TV and celebrity content.One can find in it the ratings and reviews for the newest movie and TV shows.IMDB dataset contains rating and number of votes given to each movie.Box Office Mojo is an Americanwebsite that tracks box-office revenue in a systematic, algorithmic way.
 
-***
-Questions to consider:
-* Where did the data come from, and how do they relate to the data analysis questions?
-* What do the data represent? Who is in the sample and what variables are included?
-* What is the target variable?
-* What are the properties of the variables you intend to use?
-***
+1. IMDB Basics data set
+IMDB Basics data set contains movie records of the period 2010-2115.Each movie is identified by an index "tconst".The other columns are year,runtime minutes,genres
+
+2. IMDB Ratings data set
+IMDB Ratings data set contains the average ratings and number of votes of each movie title.In this table too a movie/title is identified by the column "tconst".
+
+3. Bom.movie_gross dataset
+This dataset has details of the domestic gross and foreign gross earned from each movie and the name of studio which produced the movie.
 
 ## Methods
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
+Descriptive Analysis approach was used to analyse the data and to draw conclusions.The three datasets were merged and conclusions were drawn on the following:
 
-***
-Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
-***
+* Genres that are getting the highest votes/rating from public.
+* Genres that are marking profit in domestic and international market
+* Identify the studios that are making trend setter movies.This analysis leads to three recommendations for the new Microsoft Movie Studio.
+
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
+This analysis leads to three recommendations for the new Microsoft Movie Studio.
 
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
+Inorder to get maximum revenue genres like Sci-Fi,Adventure,Animation is to be considered.
+For getting good rating genres like Short,Documentary,Game-Show is preferrable.
+Highest number of votes was obtained for genres like Adventure,Sci-Fi,Action.
+For collaboration BV studio can be considered which has performed consistently on the basis of domestic gross earned.WB studio can also be cosnidered as its performance has been increasing lately on the basis of foreign gross earned.
 
-Here is an example of how to embed images from your sub-folder:
-
-### Visual 1
-![graph1](./images/viz1.png)
 
 ## Conclusions
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
-
-***
-Questions to consider:
-* What would you recommend the business do as a result of this work?
-* What are some reasons why your analysis might not fully solve the business problem?
-* What else could you do in the future to improve this project?
-***
+Limitations
+Even though we understood the latest trends in terms of genres,the success of the movie studio depends on the selection of crew members and getting a story based on the genre recommendation that can produce box office hits.
 
 ## For More Information
 
