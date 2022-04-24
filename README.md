@@ -1,4 +1,5 @@
 # Microsoft Movie Analysis
+![director_shot](https://user-images.githubusercontent.com/103409242/164956421-8782bdf2-c8f6-46a9-93c2-f4686f84335e.jpeg)
 
 **Authors**:<font color='Blue'> Aswathi Sasikumar </font>
 
@@ -48,6 +49,11 @@ Descriptive Analysis approach was used to analyse the data and to draw conclusio
 ## Results
 
 This analysis leads to three recommendations for the new Microsoft Movie Studio.
+![Genre_Rating](https://user-images.githubusercontent.com/103409242/164956460-78c23bd0-be85-4970-9159-4b11b03423be.png)
+![Genre_Revenue](https://user-images.githubusercontent.com/103409242/164956463-db74b94c-2bd8-434e-8ce2-81947114cb84.png)
+![Top](https://user-images.githubusercontent.com/103409242/164956465-870cd2da-ba7f-4317-aded-7f46e46c3b3b.png)
+![TopStudio_Dom](https://user-images.githubusercontent.com/103409242/164956484-9ed5608f-92ba-4da0-962b-c4e7f6f14439.png)
+![TopStudio_Foreign](https://user-images.githubusercontent.com/103409242/164956487-44069d40-8876-4ba9-8c93-7bcf0a73a5c6.png)
 
 
 
