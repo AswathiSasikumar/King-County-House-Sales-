@@ -78,7 +78,12 @@ The Findings of the analysis are detailed below:
 
 ## Limitations
 
-Even though we understood the latest trends in terms of genres,the success of the movie studio depends on the selection of crew members and getting a story based on the genre recommendations.
+** Based on the analysis we were able to understand the current trends at the box office.However the success of a movie depends on multiple factors such as the crew,a bold script, screenplay and the marketing strategies adopted.
+Eg: The movie ‘Justice League’ released in 2017 bombed at the box office despite it’s starstudded cast and action sequences ,the movie was criticized for its underdeveloped plot and resulted in studio loosing its money.
+
+** Also while analysing the top movies based on number of votes it was found that though every year the top voted movie belonged to the genre Action,Adventure,Sci-Fi.In 2013,the top voted movie was “The Wolf of Wall street” which 
+belonged to genre “Biography,crime” which clearly shows that bold script can definitely make a difference.
+
 
 ## For More Information
 
