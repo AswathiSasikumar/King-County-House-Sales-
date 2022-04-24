@@ -73,7 +73,7 @@ Even though we understood the latest trends in terms of genres,the success of th
 
 Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
-For any additional questions, please contact **Aswathi Sasikumar at <a href="kukkuaswathi@gmail.com></a>**
+For any additional questions, please contact **Aswathi Sasikumar at <a href="kukkuaswathi@gmail.com/>**
 
 ## Repository Structure
 
