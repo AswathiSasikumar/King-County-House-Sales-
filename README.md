@@ -26,24 +26,24 @@ The datasets from the popular movie datasets were used for this analysis mainly:
 
 IMDb is the world's most popular and authoritative source for movie, TV and celebrity content.One can find in it the ratings and reviews for the newest movie and TV shows.IMDB dataset contains rating and number of votes given to each movie.
 
-1. imdb.titles.basics data set
-IMDB Basics data set contains movie records of the period 2010-2115.Each movie is identified by an index "tconst".The other columns are year,runtime minutes,genres
+1. <b>imdb.titles.basics data set:</b>
+   IMDB Basics data set contains movie records of the period 2010-2115.Each movie is identified by an index "tconst".The other columns are year,runtime    minutes,genres
 
-2. imdb.titles.ratings data set
-IMDB Ratings data set contains the average ratings and number of votes of each movie title.In this table too a movie/title is identified by the column "tconst".
+2. <b>imdb.titles.ratings data set:</b>
+   IMDB Ratings data set contains the average ratings and number of votes of each movie title.In this table too a movie/title is identified by the          column "tconst".
 
 Box Office Mojo is an American website that tracks box-office revenue in a systematic, algorithmic way.
 
-1. Bom.movie_gross dataset
-This dataset has details of the domestic gross and foreign gross earned from each movie and the name of studio which produced the movie along with year in which it was produced.
+1. <b>Bom.movie_gross dataset:</b>
+   This dataset has details of the domestic gross and foreign gross earned from each movie and the name of studio which produced the movie along with      year in which it was produced.
 
 ## Methods
 
-Descriptive Analysis approach was used to analyse the data and to draw conclusions.The three datasets were merged and conclusions were drawn on the following:
+Descriptive Analysis approach was used to analyse the data and to draw conclusions.The three datasets mentioned earlier were merged and conclusions were drawn on the following:
 
 * Genres that are getting the highest votes/rating from public.
-* Genres that are marking profit in domestic and international market
-* Identify the studios that are making trend setter movies.This analysis leads to three recommendations for the new Microsoft Movie Studio.
+* Genres that are marking highest gross in the box office.
+* Identify the studios that are making trend setter movies.
 
 
 ## Results
