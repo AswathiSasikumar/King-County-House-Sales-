@@ -49,23 +49,26 @@ Descriptive Analysis approach was used to analyse the data and to draw conclusio
 ## Results
 
 The Findings of the analysis are detailed below:
-<p>
 1.Short,Documentary,Game-Show are the genres which got high ratings.
+
 ![Genre_Rating](https://user-images.githubusercontent.com/103409242/164956460-78c23bd0-be85-4970-9159-4b11b03423be.png)
 
 2.Sci-Fi,Adventure,Animation got the maximum gross revenue.
+
 ![Genre_Revenue](https://user-images.githubusercontent.com/103409242/164956463-db74b94c-2bd8-434e-8ce2-81947114cb84.png)
 
 3.Analysis of the trends in top voted movies in the IMDB data Set showed that the top voted movies belonged to genres Action,Adventure,Sci-FI.
+
 ![Top](https://user-images.githubusercontent.com/103409242/164956465-870cd2da-ba7f-4317-aded-7f46e46c3b3b.png)
 
 4.Analysis of Domestic gross earned by top studios over the years showed that BV studio is earning highest domestic gross consistenly.
+
 ![TopStudio_Dom](https://user-images.githubusercontent.com/103409242/164956484-9ed5608f-92ba-4da0-962b-c4e7f6f14439.png)
 
 5.From this plot we can see that even though BV studio has got the highest foreign gross in box office,there has been a dip in its revenue earned in 2018.And the performance of WB studio has been increasing.
 
 ![TopStudio_Foreign](https://user-images.githubusercontent.com/103409242/164956487-44069d40-8876-4ba9-8c93-7bcf0a73a5c6.png)
-</p>
+
 ## Conclusions
 
 * Inorder to get maximum revenue genres like Sci-Fi,Adventure,Animation is to be considered.
