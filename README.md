@@ -67,17 +67,17 @@ The Findings of the analysis are detailed below:
 
  BV and Universal studios have created the top movies with highest gross.
  
-5.Top Movies with highest Foreign Gross
+5.Analysis of Domestic gross earned by top studios over the years showed that BV studio is earning highest domestic gross consistenly.
+
+![TopStudio_Dom](https://user-images.githubusercontent.com/103409242/164956484-9ed5608f-92ba-4da0-962b-c4e7f6f14439.png)
+ 
+6.Top Movies with highest Foreign Gross
 
 ![Screen Shot 2022-04-24 at 7 36 07 pm](https://user-images.githubusercontent.com/103409242/164972049-0e9fb03c-9cbf-4502-916c-955fb9fdc56c.png)
 
 The top studios which has produced movies with highest foreign gross are Warner Bros.,BV,Universal,HC and Paramount studios.
 
-6.Analysis of Domestic gross earned by top studios over the years showed that BV studio is earning highest domestic gross consistenly.
-
-![TopStudio_Dom](https://user-images.githubusercontent.com/103409242/164956484-9ed5608f-92ba-4da0-962b-c4e7f6f14439.png)
-
-5.From this plot we can see that even though BV studio has got the highest foreign gross in box office,there has been a dip in its revenue earned in 2018.And the performance of WB studio has been increasing.
+7.From this plot we can see that even though BV studio has got the highest foreign gross in box office,there has been a dip in its revenue earned in 2018.And the performance of WB studio has been increasing.
 
 ![TopStudio_Foreign](https://user-images.githubusercontent.com/103409242/164956487-44069d40-8876-4ba9-8c93-7bcf0a73a5c6.png)
 
