@@ -49,7 +49,7 @@ Descriptive Analysis approach was used to analyse the data and to draw conclusio
 ## Results
 
 The Findings of the analysis are detailed below:
-1. Short,Documentary,Game-Show are the genres which got high ratings.
+1.Short,Documentary,Game-Show are the genres which got high ratings.
 ![Genre_Rating](https://user-images.githubusercontent.com/103409242/164956460-78c23bd0-be85-4970-9159-4b11b03423be.png)
 
 2.Sci-Fi,Adventure,Animation got the maximum gross revenue.
@@ -62,6 +62,7 @@ The Findings of the analysis are detailed below:
 ![TopStudio_Dom](https://user-images.githubusercontent.com/103409242/164956484-9ed5608f-92ba-4da0-962b-c4e7f6f14439.png)
 
 5.From this plot we can see that even though BV studio has highest foreign gross,there has been a dip in its revenue earned in 2018.But the performance of WB studio has been increasing.
+
 ![TopStudio_Foreign](https://user-images.githubusercontent.com/103409242/164956487-44069d40-8876-4ba9-8c93-7bcf0a73a5c6.png)
 
 ## Conclusions
