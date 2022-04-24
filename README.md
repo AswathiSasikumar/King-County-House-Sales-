@@ -67,7 +67,7 @@ The Findings of the analysis are detailed below:
 
  BV and Universal studios have created the top movies with highest gross.
  
-5.Analysis of Domestic gross earned by top studios over the years showed that BV studio is earning highest domestic gross consistenly.
+5.Analysis of Domestic gross earned by top studios-BV and Universal studio over the years showed that BV studio is earning highest domestic gross consistenly.
 
 ![TopStudio_Dom](https://user-images.githubusercontent.com/103409242/164956484-9ed5608f-92ba-4da0-962b-c4e7f6f14439.png)
  
