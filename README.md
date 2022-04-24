@@ -17,7 +17,7 @@ Microsoft will be able to understand the latest trends in the movies market.They
 
 They can utilize these findings in deciding upon the movies they should create in their new Movie Studio to get maximum profit.
 
-The datasets from the popular movie datasets were used for the analysis mainly:
+The datasets from the popular movie datasets were used for this analysis mainly:
 
 * IMDB
 * BOX Office MOJO
@@ -32,7 +32,7 @@ IMDB Basics data set contains movie records of the period 2010-2115.Each movie i
 2. imdb.titles.ratings data set
 IMDB Ratings data set contains the average ratings and number of votes of each movie title.In this table too a movie/title is identified by the column "tconst".
 
-Box Office Mojo is an Americanwebsite that tracks box-office revenue in a systematic, algorithmic way.
+Box Office Mojo is an American website that tracks box-office revenue in a systematic, algorithmic way.
 
 1. Bom.movie_gross dataset
 This dataset has details of the domestic gross and foreign gross earned from each movie and the name of studio which produced the movie along with year in which it was produced.
@@ -48,15 +48,21 @@ Descriptive Analysis approach was used to analyse the data and to draw conclusio
 
 ## Results
 
-This analysis leads to three recommendations for the new Microsoft Movie Studio.
+The Findings of the analysis are detailed below:
+1. Short,Documentary,Game-Show are the genres which got high ratings.
 ![Genre_Rating](https://user-images.githubusercontent.com/103409242/164956460-78c23bd0-be85-4970-9159-4b11b03423be.png)
+
+2.Sci-Fi,Adventure,Animation got the maximum gross revenue.
 ![Genre_Revenue](https://user-images.githubusercontent.com/103409242/164956463-db74b94c-2bd8-434e-8ce2-81947114cb84.png)
+
+3.Analysis of the trends in top voted movies in the IMDB data Set showed that Action,Adventure,Sci-FI are the genres with highest number of votes.
 ![Top](https://user-images.githubusercontent.com/103409242/164956465-870cd2da-ba7f-4317-aded-7f46e46c3b3b.png)
+
+4.Analysis of Domestic gross of top studios showed that BV studio is earning highest domestic gross consistenly.
 ![TopStudio_Dom](https://user-images.githubusercontent.com/103409242/164956484-9ed5608f-92ba-4da0-962b-c4e7f6f14439.png)
+
+5.From this plot we can see that even though BV studio has highest foreign gross,there has been a dip in its revenue earned in 2018.But the performance of WB studio has been increasing.
 ![TopStudio_Foreign](https://user-images.githubusercontent.com/103409242/164956487-44069d40-8876-4ba9-8c93-7bcf0a73a5c6.png)
-
-
-
 
 ## Conclusions
 
