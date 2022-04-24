@@ -48,11 +48,6 @@ Descriptive Analysis approach was used to analyse the data and to draw conclusio
 ## Results
 
 This analysis leads to three recommendations for the new Microsoft Movie Studio.
-![Genre_Rating](https://user-images.githubusercontent.com/103409242/164954250-b11e539e-dc01-4f22-8358-cfad8d4a9c03.png)
-![Genre_Revenue](https://user-images.githubusercontent.com/103409242/164954254-818a5a5b-f846-4455-a291-3e3f232580b5.png)
-![stud1](https://user-images.githubusercontent.com/103409242/164954255-3b753f14-de90-4053-831b-5fc434f73afd.png)
-![stud2](https://user-images.githubusercontent.com/103409242/164954256-be869b6a-f0e0-4546-878d-deabde01ad36.png)
-![Top](https://user-images.githubusercontent.com/103409242/164954258-8c0dbe70-bfe7-4438-953b-c7fa64966a68.png)
 
 
 
