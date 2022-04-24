@@ -1,14 +1,14 @@
 # Microsoft Movie Analysis
 
-**Authors**: Aswathi Sasikumar
+**Authors**:<font color='Blue'> Aswathi Sasikumar </font>
 
 ## Overview
 
-This project analyzes the types of movies that are currently doing the best at the box office.This will help Microsoft in understanding that the current trends in Movie Market and will enable them to decide upon the movies for their New Movie Studio.
+This project analyzes the types of movies that are currently doing the best at the box office.This will give insights to Microsoft about the current trends in Movie Market and will enable them to devise strategies for their new Movie Studio.
 
 ## Business Problem
 
-Microsoft will be able to understand the latest trends in the movies that are making big profit in Box-office.They will be able to make following inferences from the analysis.
+Microsoft will be able to understand the latest trends in the movies market.They will be able to make following inferences from the analysis.
 
 * Identify the genres that are getting the highest votes/rating from public.
 * Identify the genres that are marking profit in domestic and international market
@@ -16,24 +16,25 @@ Microsoft will be able to understand the latest trends in the movies that are ma
 
 They can utilize these findings in deciding upon the movies they should create in their new Movie Studio to get maximum profit.
 
-The datasets from the popular movie datasets were analysed.
+The datasets from the popular movie datasets were used for the analysis mainly:
 
-IMDB
-BOX Office MOJO
-
+* IMDB
+* BOX Office MOJO
 
 ## Data
 
-IMDb is the world's most popular and authoritative source for movie, TV and celebrity content.One can find in it the ratings and reviews for the newest movie and TV shows.IMDB dataset contains rating and number of votes given to each movie.Box Office Mojo is an Americanwebsite that tracks box-office revenue in a systematic, algorithmic way.
+IMDb is the world's most popular and authoritative source for movie, TV and celebrity content.One can find in it the ratings and reviews for the newest movie and TV shows.IMDB dataset contains rating and number of votes given to each movie.
 
-1. IMDB Basics data set
+1. imdb.titles.basics data set
 IMDB Basics data set contains movie records of the period 2010-2115.Each movie is identified by an index "tconst".The other columns are year,runtime minutes,genres
 
-2. IMDB Ratings data set
+2. imdb.titles.ratings data set
 IMDB Ratings data set contains the average ratings and number of votes of each movie title.In this table too a movie/title is identified by the column "tconst".
 
-3. Bom.movie_gross dataset
-This dataset has details of the domestic gross and foreign gross earned from each movie and the name of studio which produced the movie.
+Box Office Mojo is an Americanwebsite that tracks box-office revenue in a systematic, algorithmic way.
+
+1. Bom.movie_gross dataset
+This dataset has details of the domestic gross and foreign gross earned from each movie and the name of studio which produced the movie along with year in which it was produced.
 
 ## Methods
 
@@ -48,22 +49,25 @@ Descriptive Analysis approach was used to analyse the data and to draw conclusio
 
 This analysis leads to three recommendations for the new Microsoft Movie Studio.
 
-Inorder to get maximum revenue genres like Sci-Fi,Adventure,Animation is to be considered.
-For getting good rating genres like Short,Documentary,Game-Show is preferrable.
-Highest number of votes was obtained for genres like Adventure,Sci-Fi,Action.
-For collaboration BV studio can be considered which has performed consistently on the basis of domestic gross earned.WB studio can also be cosnidered as its performance has been increasing lately on the basis of foreign gross earned.
+
 
 
 ## Conclusions
 
-Limitations
-Even though we understood the latest trends in terms of genres,the success of the movie studio depends on the selection of crew members and getting a story based on the genre recommendation that can produce box office hits.
+* Inorder to get maximum revenue genres like Sci-Fi,Adventure,Animation is to be considered.
+* For getting good rating genres like Short,Documentary,Game-Show is preferrable.
+* Highest number of votes was obtained for genres like Adventure,Sci-Fi,Action.
+* For collaboration BV studio can be considered which has performed consistently on the basis of domestic gross earned.WB studio can also be cosnidered as its performance has been improving lately on the basis of foreign gross earned.
+
+## Limitations
+
+Even though we understood the latest trends in terms of genres,the success of the movie studio depends on the selection of crew members and getting a story based on the genre recommendations.
 
 ## For More Information
 
 Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact **Aswathi Sasikumar at <a href="kukkuaswathi@gmail.com></a>**
 
 ## Repository Structure
 
